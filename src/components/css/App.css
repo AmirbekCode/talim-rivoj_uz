@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+    transition: all 0.5s ease;
+}
+
+.container{
+   
+    height: 100vh;
+    display: flex;
+}
+
+.wrapper{
+    width: 100%;
+}
+
+nav{
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 450px;
+    background: #F4F7FD;
+}
+
+.content{
+    width: 100%;
+    min-height: 0vh;
+    background-color: crimson;
+}
