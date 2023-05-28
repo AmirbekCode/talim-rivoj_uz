@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import Navbar from './components/pages/navbar/navbar'
 import './components/css/App.css'
-import '@fortawesome/fontawesome-free/css/all.css';
+
 
 
 function App() {
