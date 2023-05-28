@@ -14,8 +14,7 @@ function App() {
             <Navbar />
           </nav>
           <div className="content">
-            <h1>hhh</h1>
-            <h1>hhh</h1>
+            
           </div>
         </div>
       </div>
